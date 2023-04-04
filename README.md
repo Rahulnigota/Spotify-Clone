@@ -1,0 +1,2 @@
+# Spotify-Clone
+This is Spotify Clone I'll make using HTML, CSS and Java script.
